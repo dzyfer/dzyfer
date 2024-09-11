@@ -1,5 +1,3 @@
-## Hi there, I'm Dzyfer 👋
+## hi there, i'm gursh 👋
 
-- 🔭 I’m currently working on webdev
-
-
+don't be too infatuated with my github commit history. i love committing (everything at the end).
